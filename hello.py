@@ -1,5 +1,5 @@
 print("hello world")
-
+#econding="utf-8"
 import os
 
 lst = os.listdir(os.getcwd())
